@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "dashboard": "Панель управления",
+    "customers": "Клиенты",
+    "products": "Товары",
+    "orders": "Заказы",
+    "analytics": "Аналитика",
+    "settings": "Настройки"
+  },
+  "header": {
+    "search": "Поиск...",
+    "profile": "Профиль",
+    "settings": "Настройки",
+    "logout": "Выйти"
+  },
+  "dashboard": {
+    "title": "Панель управления",
+    "description": "Добро пожаловать в вашу CRM-систему",
+    "stats": {
+      "totalRevenue": "Общая выручка",
+      "totalOrders": "Всего заказов",
+      "totalCustomers": "Всего клиентов",
+      "totalProducts": "Всего товаров",
+      "fromLastMonth": "с прошлого месяца"
+    },
+    "overview": {
+      "title": "Обзор"
+    },
+    "recentSales": {
+      "title": "Последние продажи",
+      "description": "В этом месяце вы совершили 265 продаж."
+    }
+  },
+  "customers": {
+    "title": "Клиенты",
+    "description": "Управление базой клиентов",
+    "addCustomer": "Добавить клиента",
+    "searchPlaceholder": "Поиск клиентов...",
+    "filter": "Фильтр",
+    "table": {
+      "name": "Имя",
+      "contact": "Контакты",
+      "status": "Статус",
+      "orders": "Заказы",
+      "totalSpent": "Потрачено",
+      "lastOrder": "Последний заказ"
+    },
+    "status": {
+      "active": "Активный",
+      "inactive": "Неактивный"
+    },
+    "actions": {
+      "view": "Просмотр",
+      "edit": "Редактировать",
+      "delete": "Удалить"
+    }
+  },
+  "products": {
+    "title": "Товары",
+    "description": "Управление каталогом товаров",
+    "addProduct": "Добавить товар",
+    "searchPlaceholder": "Поиск товаров...",
+    "filter": "Фильтр",
+    "stock": "Склад",
+    "status": {
+      "active": "Активный",
+      "out_of_stock": "Нет в наличии"
+    },
+    "actions": {
+      "view": "Просмотр",
+      "edit": "Редактировать",
+      "delete": "Удалить"
+    }
+  }
+}

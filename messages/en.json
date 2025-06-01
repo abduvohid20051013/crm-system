@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "customers": "Customers",
+    "products": "Products",
+    "orders": "Orders",
+    "analytics": "Analytics",
+    "settings": "Settings"
+  },
+  "header": {
+    "search": "Search...",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Welcome to your CRM dashboard",
+    "stats": {
+      "totalRevenue": "Total Revenue",
+      "totalOrders": "Total Orders",
+      "totalCustomers": "Total Customers",
+      "totalProducts": "Total Products",
+      "fromLastMonth": "from last month"
+    },
+    "overview": {
+      "title": "Overview"
+    },
+    "recentSales": {
+      "title": "Recent Sales",
+      "description": "You made 265 sales this month."
+    }
+  },
+  "customers": {
+    "title": "Customers",
+    "description": "Manage your customer database",
+    "addCustomer": "Add Customer",
+    "searchPlaceholder": "Search customers...",
+    "filter": "Filter",
+    "table": {
+      "name": "Name",
+      "contact": "Contact",
+      "status": "Status",
+      "orders": "Orders",
+      "totalSpent": "Total Spent",
+      "lastOrder": "Last Order"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "actions": {
+      "view": "View",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  },
+  "products": {
+    "title": "Products",
+    "description": "Manage your product catalog",
+    "addProduct": "Add Product",
+    "searchPlaceholder": "Search products...",
+    "filter": "Filter",
+    "stock": "Stock",
+    "status": {
+      "active": "Active",
+      "out_of_stock": "Out of Stock"
+    },
+    "actions": {
+      "view": "View",
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  }
+}

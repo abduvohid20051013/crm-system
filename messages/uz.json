@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "dashboard": "Boshqaruv paneli",
+    "customers": "Mijozlar",
+    "products": "Mahsulotlar",
+    "orders": "Buyurtmalar",
+    "analytics": "Tahlil",
+    "settings": "Sozlamalar"
+  },
+  "header": {
+    "search": "Qidirish...",
+    "profile": "Profil",
+    "settings": "Sozlamalar",
+    "logout": "Chiqish"
+  },
+  "dashboard": {
+    "title": "Boshqaruv paneli",
+    "description": "CRM tizimingizga xush kelibsiz",
+    "stats": {
+      "totalRevenue": "Umumiy daromad",
+      "totalOrders": "Jami buyurtmalar",
+      "totalCustomers": "Jami mijozlar",
+      "totalProducts": "Jami mahsulotlar",
+      "fromLastMonth": "o'tgan oydan"
+    },
+    "overview": {
+      "title": "Umumiy ko'rinish"
+    },
+    "recentSales": {
+      "title": "So'nggi sotuvlar",
+      "description": "Siz bu oyda 265 ta sotuv qildingiz."
+    }
+  },
+  "customers": {
+    "title": "Mijozlar",
+    "description": "Mijozlar bazasini boshqarish",
+    "addCustomer": "Mijoz qo'shish",
+    "searchPlaceholder": "Mijozlarni qidirish...",
+    "filter": "Filtr",
+    "table": {
+      "name": "Ism",
+      "contact": "Aloqa",
+      "status": "Holat",
+      "orders": "Buyurtmalar",
+      "totalSpent": "Jami sarflangan",
+      "lastOrder": "Oxirgi buyurtma"
+    },
+    "status": {
+      "active": "Faol",
+      "inactive": "Nofaol"
+    },
+    "actions": {
+      "view": "Ko'rish",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish"
+    }
+  },
+  "products": {
+    "title": "Mahsulotlar",
+    "description": "Mahsulotlar katalogini boshqarish",
+    "addProduct": "Mahsulot qo'shish",
+    "searchPlaceholder": "Mahsulotlarni qidirish...",
+    "filter": "Filtr",
+    "stock": "Ombor",
+    "status": {
+      "active": "Faol",
+      "out_of_stock": "Omborda yo'q"
+    },
+    "actions": {
+      "view": "Ko'rish",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish"
+    }
+  }
+}
