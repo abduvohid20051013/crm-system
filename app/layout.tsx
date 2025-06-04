@@ -5,7 +5,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: "CRM System - Clothing",
+  title: "CRM Abduvoxid System - Clothing",
   description: "Современная CRM-система для управления клиентами, товарами и заказами",
 }
 
